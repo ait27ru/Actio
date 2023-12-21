@@ -28,3 +28,8 @@ cat .\Actio.sln
 dotnet restore
 dotnet build
 ```
+
+## RabbitMQ
+docker run -p 5672:5672 rabbitmq
+or
+https://www.cloudamqp.com/
